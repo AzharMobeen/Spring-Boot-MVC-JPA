@@ -1,8 +1,0 @@
-com\az\model\UserAddress.class
-com\az\controller\AppController.class
-com\az\repository\UserRepository.class
-com\az\ServletInitializer.class
-com\az\model\User.class
-com\az\CustomeApplicationRunner.class
-com\az\SpringBootMvcJpaApplication.class
-com\az\service\UserService.class
